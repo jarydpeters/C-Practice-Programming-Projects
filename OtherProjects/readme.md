@@ -1,1 +1,0 @@
-This folder contains other personal projects unrelated to the C programming language
